@@ -1,5 +1,0 @@
-# _*_ coding:utf-8 _*_
-
-GE_ACTION_IGNORE = 0
-GE_ACTION_DISINFECT = 1
-GE_ACTION_DELETE = 2
