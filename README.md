@@ -28,7 +28,7 @@
   <a href="#related">License</a>
 </p>
 
-![vid.mpt](./Cur.mp4)
+![vid.mpt](https://user-images.githubusercontent.com/29038060/218875584-020d2984-1225-49d8-8520-058aa295a602.mp4)
 
 ## Testing Requirements
 ```
