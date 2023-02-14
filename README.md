@@ -12,16 +12,13 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/LANG-html5-E34F26?style=for-the-badge&logo=HTML5n&logoColor=white">
+    <img src="https://img.shields.io/badge/LANG-python-E34F26?style=for-the-badge&logo=HTML5n&logoColor=white">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
+    <img src="https://img.shields.io/badge/BAT-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-FFd400?style=for-the-badge&logo=HTML5n&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/COMPILE-VsCode 2019-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
+    <img src="https://img.shields.io/badge/COMPILE-Pycharm 2023-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
   </a>
 </p>
 
