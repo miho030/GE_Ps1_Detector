@@ -1,10 +1,6 @@
 
 <h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
-  <br>
    GE_Ps1_Detector
-
   <br>
 </h1>
 
@@ -13,9 +9,6 @@
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/LANG-python-E34F26?style=for-the-badge&logo=HTML5n&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/BAT-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/COMPILE-Pycharm 2023-3776AB?style=for-the-badge&logo=HTML5n&logoColor=white">
