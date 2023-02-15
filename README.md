@@ -38,16 +38,27 @@ python CGroupE.py
 ## Structure
 
 ```
-├─src
-│  └─CGroupE
-│      ├─ge_Algorithm
-│      ├─ge_Const
-│      │  └─__pycache__
+├─ src
+│  └─ CGroupE
+│      ├─ ge_Algorithm
+│      │   └─ empty now
+│      │
+│      ├─ ge_Const
+│      │   ├─ _ge_Api.py
+│      │   ├─ _ge_Const.py
+│      │   └─ _ge_PrintUI
+│      │  
 │      └─ge_getXML
 │          ├─resources
-│          └─__pycache__
-└─_backups
+│          │   ├─ clear_psevent.bat
+│          │   ├─ collect_psevent.bat
+│          │   ├─ enable_powershell_logging.reg
+│          │   ├─ parse_mwpsopevent.py
+│          │   └─ parse_winpsevent.py
+│          └─ _ge_load_Api.py
+└─ _backups
 ```
+
 
 ## License
 CopyRight all reserved by --,  github.com/miho030
