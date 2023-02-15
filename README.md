@@ -25,14 +25,16 @@
 
 # I'm still make this markdown docs!!
 
-## Testing Requirements
+## Usage
 ```
 $ pip install figlet
 $ pip install clint
+
+$ python CGroupE.py
 ```
 ### Usage
 ```
-python CGroupE.py
+
 ```
 
 ## Structure
@@ -59,10 +61,5 @@ python CGroupE.py
 └─ _backups
 ```
 
-
-## License
-CopyRight all reserved by --,  github.com/miho030
-
----
 > GitHub [@miho030](https://github.com/miho030) &nbsp;&middot;&nbsp;
 
